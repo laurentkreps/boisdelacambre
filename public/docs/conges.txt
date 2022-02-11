@@ -1,0 +1,79 @@
+{
+  "semaine": [
+    {
+      "dateDebut": "Lundi 01 novembre 2021",
+      "dateFin": "Vendredi 07 novembre 2021",
+      "intitule": "Vacances de Toussaint"
+    },
+    {
+      "dateDebut": "Lundi 27 décembre 2021",
+      "dateFin": "Vendredi 31 décembre 2021",
+      "intitule": "Vacances de Noël(semaine 1)"
+    },
+    {
+      "dateDebut": "Lundi 03 janvier 2022",
+      "dateFin": "Vendredi 07 janvier 2022",
+      "intitule": "Vacances de Noël (semaine 2)"
+    },
+    {
+      "dateDebut": "Lundi 28 février 2022",
+      "dateFin": "Vendredi 04 mars 2022",
+      "intitule": "Vacances Carnaval"
+    },
+    {
+      "dateDebut": "Lundi 04 avril 2022",
+      "dateFin": "Vendredi 08 avril 2022",
+      "intitule": "Vacances de Pâques (semaine 1)"
+    },
+    {
+      "dateDebut": "Lundi 11 avril 2022",
+      "dateFin": "Vendredi 15 avril 2022",
+      "intitule": "Vacances de Pâques (semaine 2)"
+    },
+    {
+      "dateDebut": "Lundi 04 juillet 2022",
+      "dateFin": "Vendredi 08 juillet 2022",
+      "intitule": "Vacances d'Eté (semaine 1)"
+    },
+    {
+      "dateDebut": "Lundi 11 juillet 2022",
+      "dateFin": "Vendredi 15 juillet 2022",
+      "intitule": "Vacances d'Eté (semaine 2)"
+    },
+    {
+      "dateDebut": "Lundi 18 juillet 2022",
+      "dateFin": "Vendredi 22 juillet 2022",
+      "intitule": "Vacances d'Eté (semaine 3)"
+    },
+    {
+      "dateDebut": "Lundi 25 juillet 2022",
+      "dateFin": "Vendredi 29 juillet 2022",
+      "intitule": "Vacances d'Eté (semaine 4)"
+    },
+    {
+      "dateDebut": "Lundi 01 août 2022",
+      "dateFin": "Vendredi 05 août 2022",
+      "intitule": "Vacances d'Eté (semaine 5)"
+    },
+    {
+      "dateDebut": "Lundi 08 août 2022",
+      "dateFin": "Vendredi 12 août 2022",
+      "intitule": "Vacances d'Eté (semaine 6)"
+    },
+    {
+      "dateDebut": "Lundi 15 août 2022",
+      "dateFin": "Vendredi 19 août 2022",
+      "intitule": "Vacances d'Eté (semaine 7)"
+    },
+    {
+      "dateDebut": "Lundi 22 août 2022",
+      "dateFin": "Vendredi 26 août 2022",
+      "intitule": "Vacances d'Eté (semaine 8)"
+    },
+    {
+      "dateDebut": "Lundi 29 août 2022",
+      "dateFin": "Mercredi 31 août 2022",
+      "intitule": "Vacances d'Eté (semaine 9)"
+    }
+  ]
+}
